@@ -24,7 +24,7 @@ export default {
     },
     alias: {
         // 键必须以斜线开始和结束
-        '/@cpn/': path.resolve(__dirname, './src/components')
+        '/@cpt/': path.resolve(__dirname, './src/components')
         // '/@components/': path.resolve(__dirname, './src/components')
     },
     proxy: {
